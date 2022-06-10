@@ -3,9 +3,9 @@ import { Link as RouterLink } from 'react-router-dom';
 import { Grid, Button, Container, Stack, Typography } from '@mui/material';
 // components
 
-import Iconify from '../components/Iconify';
+
 import Page from "./Page";
-import Wakatime from "../components/Wakatime";
+
 import ContactForm from "../sections/Contact/ContactForm";
 import {styled} from "@mui/material/styles";
 
