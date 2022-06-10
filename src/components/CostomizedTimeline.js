@@ -23,7 +23,7 @@ export default function CustomizedTimeline() {
                     variant="body2"
                     color="text.secondary"
                 >
-                    2018
+                    2018-2020
                 </TimelineOppositeContent>
                 <TimelineSeparator>
                     <TimelineConnector />
